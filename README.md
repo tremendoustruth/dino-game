@@ -2,7 +2,7 @@ Objective: Build on the Dino Game introduced in class by adding new features to 
 game more engaging. Implement point tracking, additional obstacles, speed adjustments,
 and any extra features to enhance the game experience.
 
-####Instructions
+#### Instructions
 1. Score Tracking:
 - Implement a scoring system that increases as the Dino successfully avoids
 obstacles.
